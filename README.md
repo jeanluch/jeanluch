@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanluch (Jean Carlos Eloy Luchtenberg)
-- 👀 I’m interested in ReactJS, NodeJS and Java
-- 🌱 I’m always learning more of ReactJS, NodeJS and Java
+- 👀 I’m interested in ReactJS, React Native, NodeJS and Java
+- 🌱 I’m always learning more of ReactJS, React Native, NodeJS and Java
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: jeanluch@gmail.com
 
